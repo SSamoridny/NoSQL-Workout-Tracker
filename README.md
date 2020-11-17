@@ -16,8 +16,8 @@
 
 ## Installation:
 
-         This product has aheroku link below. Just click the link end enjoy.
-   [](https://fathomless-headland-20645.herokuapp.com/)
+         This product has a heroku link below. Just click the link end enjoy.
+   [https://fathomless-headland-20645.herokuapp.com/](https://fathomless-headland-20645.herokuapp.com/)
 
 ## Usage:
 
@@ -25,7 +25,7 @@
 
 ## Credits:
 
-        Fil Labourde-BAsto, Daniel Ceballos
+        Fil Labourde-Basto, Daniel Ceballos
 
 ## GitHUb Adress:
 
