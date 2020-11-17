@@ -62,5 +62,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 }
       
-
+![Workout 1 Gif](https://user-images.githubusercontent.com/30538162/99458547-efc3a700-28e9-11eb-948f-2ed0b7af2343.gif)
+![Workout 2 Gif](https://user-images.githubusercontent.com/30538162/99458565-f81be200-28e9-11eb-89a7-3f2d8c186b5b.gif)
    
