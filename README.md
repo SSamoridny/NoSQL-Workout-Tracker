@@ -17,6 +17,7 @@
 ## Installation:
 
          This product has aheroku link below. Just click the link end enjoy.
+   [](https://fathomless-headland-20645.herokuapp.com/)
 
 ## Usage:
 
@@ -28,11 +29,11 @@
 
 ## GitHUb Adress:
 
-    [](github.com/SSamoridny)
+   [SSamoridny](github.com/SSamoridny)
 
 ## Email Address:
 
-    [](ssamoridny@gmail.com)
+   [ssamoridny@gmail.com](ssamoridny@gmail.com)
 
 ## License:
     
